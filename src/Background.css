@@ -1,0 +1,21 @@
+/* src/Background.css */
+
+.background-container {
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    padding: 20px;
+    transition: background-image 0.5s ease-in-out;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: none;
+    border-radius: 5px;
+  }
+  

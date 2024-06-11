@@ -1,0 +1,21 @@
+/* src/CartoonImage.css */
+
+.cartoon-image-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .cartoon-image-container img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
